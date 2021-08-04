@@ -2,6 +2,9 @@
 ### Codes for BSc Thesis: Forecasting the NBA through regularized linear regression  
 ### Author: Pablo Lopez Landeros   
 ### Advisor: Dr. Abdolnasser Sadeghkhani   
+###### Instructions for running the experiments are included in the README file of the `src` folder. 
+
+### Summary
 
 Basketball is a dynamic sport in which two teams of five players each try to score as much points as possible while trying to receive the least possible amount. Although, there are five players per team on the court, an NBA roster consists of thirteen active players which can be substituted in and out of the game. As such, Basketball can be modeled as an interaction between multiple 5-man units each with an associated  net point contribution called plus minus. Such quantity is computed by calculating how many points each 5-man unit outscores their opponent while on the court. 
 
