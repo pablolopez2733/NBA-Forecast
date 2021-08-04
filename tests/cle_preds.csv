@@ -1,0 +1,21 @@
+Game,Actual margin,Predicted margin,Correct outcome
+vs  Boston,13,5.8206226,yes
+vs  Boston,8,6.270888165,yes
+at Boston,8,9.682654329,yes
+at Boston,8,2.991039265,yes
+vs Chicago,-7,2.149204098,no
+vs Chicago,15,5.070787862,yes
+at Chicago,-3,1.693397524,no
+at Chicago,2,2.224014741,yes
+vs Chicago,5,2.929070301,yes
+at Chicago,21,11.67080648,yes
+at Atltanta,8,6.953472637,yes
+at Atlanta,12,8.572415049,yes
+vs Atlanta,3,13.76270976,yes
+vs Atlanta,30,-2.643558128,no
+at Golden State,-8,1.072757248,no
+at Golden State,2,7.966916267,yes
+vs Golden State,5,11.46748196,yes
+vs Golden State,-21,8.472377492,no
+at Golden State,-13,12.69705871,no
+vs Golden State,-8,6.268008001,no

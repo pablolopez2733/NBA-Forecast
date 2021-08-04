@@ -1,0 +1,23 @@
+Game,Actual margin,Predicted margin,Correct prediction
+vs New Orleans,7,8.622060566,Yes
+vs New Orleans,10,10.47796558,Yes
+at New Orleans,4,10.47796558,Yes
+at New Orleans,11,9.410261189,Yes
+vs Memphis,15,10.47796558,Yes
+vs Memphis,-7,8.812123127,No
+at Memphis,-10,6.749385325,No
+at Memphis,17,11.10902905,Yes
+vs Memphis,10,7.101823977,Yes
+at Memphis,13,8.241935442,Yes
+vs Houston,4,8.126382391,Yes
+vs Houston,1,9.138531628,Yes
+at Houston,35,9.924548121,Yes
+at Houston,-13,9.34877036,No
+vs Houston,14,10.47796558,Yes
+vs Cleveland,8,8.305141458,Yes
+vs Cleveland,-2,4.904660462,No
+at Cleveland,-5,7.613403375,No
+at Cleveland,21,3.581695032,Yes
+vs Cleveland,13,3.479191249,Yes
+at Cleveland,8,4.587803026,Yes
+,,,0.727272727

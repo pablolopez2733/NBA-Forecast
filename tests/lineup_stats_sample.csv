@@ -1,0 +1,23 @@
+"","idGame","slugTeam","lineup","lineupStint","initialScoreTeam","initialScoreOpp","finalScoreTeam","finalScoreOpp","initialTime","finalTime","totalScoreTeam","totalScoreOpp","netScoreTeam","totalTime"
+"1","21400014","GSW","Andrew Bogut, Draymond Green, Harrison Barnes, Klay Thompson, Stephen Curry",0,0,0,12,9,0,360,12,9,3,360
+"2","21400014","SAC","Ben McLemore, Darren Collison, DeMarcus Cousins, Jason Thompson, Rudy Gay",0,0,0,12,13,0,446,12,13,-1,446
+"3","21400014","GSW","Draymond Green, Festus Ezeli, Harrison Barnes, Klay Thompson, Stephen Curry",1,12,9,13,11,360,404,1,2,-1,44
+"4","21400014","SAC","Ben McLemore, Darren Collison, DeMarcus Cousins, Nik Stauskas, Rudy Gay",1,12,13,12,13,446,446,0,0,0,0
+"5","21400014","GSW","Andre Iguodala, Draymond Green, Festus Ezeli, Klay Thompson, Stephen Curry",2,13,11,13,12,404,446,0,1,-1,42
+"6","21400014","SAC","Carl Landry, Darren Collison, DeMarcus Cousins, Nik Stauskas, Rudy Gay",2,12,13,14,15,446,502,2,2,0,56
+"7","21400014","GSW","Andre Iguodala, Festus Ezeli, Klay Thompson, Marreese Speights, Stephen Curry",3,13,12,19,16,446,587,6,4,2,141
+"8","21400014","SAC","Carl Landry, Darren Collison, DeMarcus Cousins, Derrick Williams, Nik Stauskas",3,14,15,16,19,502,569,2,4,-2,67
+"9","21400014","GSW","Andre Iguodala, Festus Ezeli, Klay Thompson, Leandro Barbosa, Marreese Speights",4,19,16,23,16,587,632,4,0,4,45
+"10","21400014","SAC","Carl Landry, Darren Collison, Derrick Williams, Nik Stauskas, Ramon Sessions",4,16,19,16,19,569,569,0,0,0,0
+"11","21400014","GSW","Andre Iguodala, Festus Ezeli, Justin Holiday, Leandro Barbosa, Marreese Speights",5,23,16,23,18,632,656,0,2,-2,24
+"12","21400014","SAC","Carl Landry, Derrick Williams, Nik Stauskas, Ramon Sessions, Reggie Evans",5,16,19,29,29,569,937,13,10,3,368
+"13","21400014","GSW","Andre Iguodala, Justin Holiday, Leandro Barbosa, Marreese Speights, Ognjen Kuzmic",6,23,18,25,23,656,720,2,5,-3,64
+"14","21400014","SAC","DeMarcus Cousins, Derrick Williams, Nik Stauskas, Ramon Sessions, Reggie Evans",6,29,29,31,31,937,983,2,2,0,46
+"15","21400014","GSW","Andre Iguodala, Andrew Bogut, Justin Holiday, Leandro Barbosa, Marreese Speights",7,25,23,27,29,720,899,2,6,-4,179
+"16","21400014","SAC","DeMarcus Cousins, Nik Stauskas, Ramon Sessions, Reggie Evans, Rudy Gay",7,31,31,31,31,983,983,0,0,0,0
+"17","21400014","GSW","Andre Iguodala, Andrew Bogut, Justin Holiday, Leandro Barbosa, Stephen Curry",8,27,29,27,29,899,899,0,0,0,0
+"18","21400014","SAC","DeMarcus Cousins, Jason Thompson, Nik Stauskas, Ramon Sessions, Rudy Gay",8,31,31,31,36,983,1039,0,5,-5,56
+"19","21400014","GSW","Andre Iguodala, Andrew Bogut, Justin Holiday, Klay Thompson, Stephen Curry",9,27,29,27,29,899,899,0,0,0,0
+"20","21400014","SAC","Darren Collison, DeMarcus Cousins, Jason Thompson, Ramon Sessions, Rudy Gay",9,31,36,31,36,1039,1039,0,0,0,0
+"21","21400014","GSW","Andre Iguodala, Andrew Bogut, Draymond Green, Klay Thompson, Stephen Curry",10,27,29,34,31,899,1009,7,2,5,110
+"22","21400014","SAC","Ben McLemore, Darren Collison, DeMarcus Cousins, Jason Thompson, Rudy Gay",10,31,36,35,37,1039,1160,4,1,3,121

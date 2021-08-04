@@ -1,0 +1,51 @@
+,slugScore,namePlayer1,teamNamePlayer1,slugTeamPlayer1,namePlayer2,teamNamePlayer2,slugTeamPlayer2,namePlayer3,teamNamePlayer3,slugTeamPlayer3,slugTeamLeading,idGame,numberEvent,numberEventMessageType,numberEventActionType,numberPeriod,idPersonType1,idPlayerNBA1,idTeamPlayer1,idPersonType2,idPlayerNBA2,idTeamPlayer2,idPersonType3,idPlayerNBA3,idTeamPlayer3,hasVideo,timeStringWC,timeQuarter,descriptionPlayHome,descriptionPlayNeutral,descriptionPlayVisitor,cityTeamPlayer1,cityTeamPlayer2,cityTeamPlayer3,minuteGame,timeRemaining,minuteRemainingQuarter,secondsRemainingQuarter,scoreAway,scoreHome,marginScore
+1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Home,21400001,0,12,0,1,0,0,NA,0,0,NA,0,0,NA,FALSE,08:13 p. m.,12:00,NA,Start of 1st Period (8:13 PM EST),NA,NA,NA,NA,0.00,48.00,12,0,NA,NA,NA
+2,NA,Anthony Davis,Pelicans,NOP,Nikola Vucevic,Magic,ORL,Jrue Holiday,Pelicans,NOP,Home,21400001,1,10,0,1,4,203076,1610612740,5,202696,1610612753,4,201950,1610612740,TRUE,08:14 p. m.,12:00,Jump Ball Davis vs. Vucevic: Tip to Holiday,NA,NA,New Orleans,Orlando,New Orleans,0.00,48.00,12,0,NA,NA,NA
+3,NA,Anthony Davis,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,2,2,1,1,4,203076,1610612740,0,0,NA,0,0,NA,TRUE,08:14 p. m.,11:43,MISS Davis 20' Jump Shot,NA,NA,New Orleans,NA,NA,0.28,47.72,11,43,NA,NA,NA
+4,NA,Evan Fournier,Magic,ORL,NA,NA,NA,NA,NA,NA,Home,21400001,3,4,0,1,5,203095,1610612753,0,0,NA,0,0,NA,TRUE,08:14 p. m.,11:42,NA,NA,Fournier REBOUND (Off:0 Def:1),Orlando,NA,NA,0.30,47.70,11,42,NA,NA,NA
+5,2 - 0,Nikola Vucevic,Magic,ORL,Elfrid Payton,Magic,ORL,NA,NA,NA,Away,21400001,4,1,66,1,5,202696,1610612753,5,203901,1610612753,0,0,NA,TRUE,08:14 p. m.,11:31,NA,NA,Vucevic 19' Jump Bank Shot (2 PTS) (Payton 1 AST),Orlando,Orlando,NA,0.48,47.52,11,31,2,0,-2
+6,NA,Jrue Holiday,Pelicans,NOP,Kyle O'Quinn,Magic,ORL,NA,NA,NA,Home,21400001,5,5,1,1,4,201950,1610612740,5,203124,1610612753,0,0,NA,TRUE,08:14 p. m.,11:18,Holiday Bad Pass Turnover (P1.T1),NA,O'Quinn STEAL (1 STL),New Orleans,Orlando,NA,0.70,47.30,11,18,NA,NA,NA
+7,NA,Evan Fournier,Magic,ORL,NA,NA,NA,NA,NA,NA,Home,21400001,6,5,4,1,5,203095,1610612753,0,0,NA,1,0,NA,TRUE,08:14 p. m.,11:18,NA,NA,Fournier Traveling Turnover (P1.T1),Orlando,NA,NA,0.70,47.30,11,18,NA,NA,NA
+8,NA,Anthony Davis,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,7,2,1,1,4,203076,1610612740,0,0,NA,0,0,NA,TRUE,08:15 p. m.,11:06,MISS Davis 18' Jump Shot,NA,NA,New Orleans,NA,NA,0.90,47.10,11,6,NA,NA,NA
+9,NA,Nikola Vucevic,Magic,ORL,NA,NA,NA,NA,NA,NA,Home,21400001,8,4,0,1,5,202696,1610612753,0,0,NA,0,0,NA,TRUE,08:15 p. m.,11:05,NA,NA,Vucevic REBOUND (Off:0 Def:1),Orlando,NA,NA,0.92,47.08,11,5,NA,NA,NA
+10,NA,Elfrid Payton,Magic,ORL,NA,NA,NA,Jrue Holiday,Pelicans,NOP,Home,21400001,9,2,5,1,5,203901,1610612753,0,0,NA,4,201950,1610612740,TRUE,08:15 p. m.,10:54,Holiday BLOCK (1 BLK),NA,MISS Payton 2' Layup,Orlando,NA,New Orleans,1.10,46.90,10,54,NA,NA,NA
+11,NA,Tyreke Evans,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,10,4,0,1,4,201936,1610612740,0,0,NA,0,0,NA,TRUE,08:15 p. m.,10:52,Evans REBOUND (Off:0 Def:1),NA,NA,New Orleans,NA,NA,1.13,46.87,10,52,NA,NA,NA
+12,NA,Kyle O'Quinn,Magic,ORL,Tyreke Evans,Pelicans,NOP,NA,NA,NA,Home,21400001,11,6,2,1,5,203124,1610612753,4,201936,1610612740,1,0,NA,TRUE,08:15 p. m.,10:50,NA,NA,O'Quinn S.FOUL (P1.T1),Orlando,New Orleans,NA,1.17,46.83,10,50,NA,NA,NA
+13,02-ene,Tyreke Evans,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Away,21400001,12,3,11,1,4,201936,1610612740,0,0,NA,0,0,NA,FALSE,08:15 p. m.,10:50,Evans Free Throw 1 of 2 (1 PTS),NA,NA,New Orleans,NA,NA,1.17,46.83,10,50,2,1,-1
+14,NA,Tyreke Evans,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,14,3,12,1,4,201936,1610612740,0,0,NA,0,0,NA,FALSE,08:16 p. m.,10:50,MISS Evans Free Throw 2 of 2,NA,NA,New Orleans,NA,NA,1.17,46.83,10,50,NA,NA,NA
+15,NA,Omer Asik,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,16,4,0,1,4,201600,1610612740,0,0,NA,0,0,NA,TRUE,08:16 p. m.,10:49,Asik REBOUND (Off:1 Def:0),NA,NA,New Orleans,NA,NA,1.18,46.82,10,49,NA,NA,NA
+16,NA,Nikola Vucevic,Magic,ORL,Omer Asik,Pelicans,NOP,NA,NA,NA,Home,21400001,17,6,2,1,5,202696,1610612753,4,201600,1610612740,1,0,NA,TRUE,08:16 p. m.,10:46,NA,NA,Vucevic S.FOUL (P1.T2),Orlando,New Orleans,NA,1.23,46.77,10,46,NA,NA,NA
+17,NA,Omer Asik,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,18,3,11,1,4,201600,1610612740,0,0,NA,0,0,NA,FALSE,08:16 p. m.,10:46,MISS Asik Free Throw 1 of 2,NA,NA,New Orleans,NA,NA,1.23,46.77,10,46,NA,NA,NA
+18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Home,21400001,19,4,1,1,2,1610612740,NA,0,0,NA,0,0,NA,FALSE,08:16 p. m.,10:46,PELICANS Rebound,NA,NA,NA,NA,NA,1.23,46.77,10,46,NA,NA,NA
+19,NA,Omer Asik,Pelicans,NOP,NA,NA,NA,NA,NA,NA,Home,21400001,20,3,12,1,4,201600,1610612740,0,0,NA,0,0,NA,FALSE,08:17 p. m.,10:46,MISS Asik Free Throw 2 of 2,NA,NA,New Orleans,NA,NA,1.23,46.77,10,46,NA,NA,NA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
